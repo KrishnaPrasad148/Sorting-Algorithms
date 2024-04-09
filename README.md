@@ -24,7 +24,6 @@ Register No: 212223230108
 ```
 i)	#Selection Sort
 ```
-
 lst = eval(input())
 for i in range(len(lst)):
     for j in range(i+1,len(lst)):
@@ -34,13 +33,9 @@ for i in range(len(lst)):
             lst[j] = temp
 print(f"Sorted list using Selection sort {lst}")
 
-
 ```
 ii)	#Insertion Sort
 ```
-
-
-
 lst = eval(input())
 for i in range(len(lst)):
     for j in range(len(lst)-1):
