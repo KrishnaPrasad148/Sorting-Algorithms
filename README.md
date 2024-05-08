@@ -49,11 +49,11 @@ print(f"Sorted list using Insertion sort {lst}")
 
 ## Output:
 ### i)
-![image](https://github.com/KrishnaPrasad148/Sorting-Algorithms/assets/147332763/ebdd8c80-8c5c-4bde-a2ef-8f3b56bf13e6)
+![Screenshot 2024-05-08 065706](https://github.com/KrishnaPrasad148/Sorting-Algorithms/assets/147332763/8c4f519a-22c7-4296-ae21-ef07301f4f8f)
 
 
 ### ii)
-![image](https://github.com/KrishnaPrasad148/Sorting-Algorithms/assets/147332763/1e22120b-3f3e-475b-a41d-270419c5e9cf)
+![Screenshot 2024-05-08 065723](https://github.com/KrishnaPrasad148/Sorting-Algorithms/assets/147332763/e966b229-a54d-4111-bc68-3402cd698b76)
 
 
 
